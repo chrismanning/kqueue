@@ -132,7 +132,7 @@ enum FFlag
   , NoteExit   = NOTE_EXIT
   , NoteFork   = NOTE_FORK
   , NoteExec   = NOTE_EXEC
-  , NoteSignal = NOTE_SIGNAL
+//  , NoteSignal = NOTE_SIGNAL
 //  , NoteReap   = NOTE_REAP
   };
 #endc
